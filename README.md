@@ -41,9 +41,7 @@ RTV Smooth 将原来的matlab代码改为Python代码
 顺序为 realA  fakeB  realB
 
 <center class="third">
-    <img src="./assets/epoch198_real_A.png" title="real A"/>
-    <img src="./assets/epoch198_fake_B.png"/>
-    <img src="./assets/epoch198_real_B.png"/>
+    <img src="./assets/epoch198_real_A.png" title="real A"/><img src="./assets/epoch198_fake_B.png"/><img src="./assets/epoch198_real_B.png"/>
 </center>
 
 <center class="third">
