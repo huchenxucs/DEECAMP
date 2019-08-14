@@ -16,9 +16,9 @@
 CartoonGAN：
 
 <center class="half">
-    <img src="./assets/djc54.png" width="400"/>
-    <img src="./assets/djc54_Hosoda.jpg" width="400"/>
+    <img src="./assets/djc54.png" width="400"/><img src="./assets/djc54_Hosoda.jpg" width="400"/>
 </center>
+
 
 <center class="half">
     <img src="./assets/CMH44.png" width="400"/>
